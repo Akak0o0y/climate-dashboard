@@ -133,6 +133,6 @@ The Gradio app exposes three main views:
 ├── data/
 │   └── GlobalLandTemperaturesByCity.csv      # kept locally (too large for GitHub)
 ├── notebooks/
-│   └── CS316_Project_Phase2_Groub_D.ipynb    # main analysis + dashboard code
+│   └── code.ipynb    # main analysis + dashboard code
 ├── README.md
 └── requirements.txt
